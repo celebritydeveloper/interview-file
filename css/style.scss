@@ -1,7 +1,7 @@
 .login--header {
-    font-size: 1.3rem;
-    padding-left: 20px;
-    text-align: left;
+    color: brown;
+    font-size: 1.4rem;
+    padding-left: 50px;
 }
 
 i.login--icon {
@@ -17,6 +17,7 @@ i.login--icon {
 }
 
 .welcome {
+    color: brown;
     padding-left: 14px;
 }
 
@@ -33,4 +34,13 @@ i.login--icon {
     background: brown;
     color: #fff;
     margin: 0 20px;
+}
+
+
+.item-input-wrap input:focus {
+    border-bottom: 2px solid brown;
+}
+
+.login--register {
+    color: brown;
 }
