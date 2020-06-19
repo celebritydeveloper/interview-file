@@ -1,0 +1,37 @@
+.login--header {
+  font-size: 1.3rem;
+  padding-left: 20px;
+  text-align: left;
+}
+
+i.login--icon {
+  padding-left: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.welcome {
+  padding-left: 14px;
+}
+
+.forgot--password {
+  text-align: right;
+  padding-right: 10px;
+}
+
+.forgot--password a {
+  color: brown;
+}
+
+.login--btn {
+  background: brown;
+  color: #fff;
+  margin: 0 20px;
+}
+/*# sourceMappingURL=style.css.map */
